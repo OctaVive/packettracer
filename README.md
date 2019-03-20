@@ -1,5 +1,7 @@
-# CISCO Packet Tracer
+# CISCO Packet Tracer installer for Ubuntu
 Installer for packet tracer. Installs packet tracer easily.
+
+# Warning: this script does not download CISCO Packet Tracer. You need to download the tar.gz file yourself. All this installer does is extracting it, installing the dependencies and adding it to the applications of Ubuntu.
 
 # Instructions
 1. Download the packettracer.sh script and place it in the /home/user folder (user = your own name)
